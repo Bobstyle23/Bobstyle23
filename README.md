@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bobstyle23
 - 👀 I’m interested in Full-stack web development
-- 🌱 I’m currently working as a frontend engineer @Stockeeper
+- 🌱 I’m currently working as a frontend engineer @Hyundai Engineering & Construction
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me bobpakhriev@gmail.com or at linkedin: https://www.linkedin.com/in/mukhammadbobur-pakhriyev/
 
