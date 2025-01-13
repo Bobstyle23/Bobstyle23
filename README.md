@@ -16,7 +16,7 @@
 ![Total Stars](https://img.shields.io/github/stars/Bobstyle23?style=flat-square&label=Total%20Stars)
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/Bobstyle23?style=flat-square)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Bobstyle23&theme=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Bobstyle23&theme=github-dark)
 <!---
 Bobstyle23/Bobstyle23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
