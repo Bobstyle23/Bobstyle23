@@ -5,6 +5,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobstyle23&layout=compact&theme=light)
 
+![Total Stars](https://img.shields.io/github/stars/Bobstyle23?style=flat-square&label=Stars)
 
 ![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=Bobstyle23&theme=github)
 <!---
