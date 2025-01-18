@@ -1,9 +1,9 @@
 # Hello World! 🫂
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobstyle23&show_icons=true&theme=light)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bobstyle23&show_icons=true&theme=dark)
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobstyle23&layout=compact&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobstyle23&layout=compact&theme=dark)
 
 ![Total Stars](https://img.shields.io/github/stars/Bobstyle23?style=flat-square&label=Stars)
 
