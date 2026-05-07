@@ -1,6 +1,6 @@
 # Hello World! 🫂
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobstyle23&hide=contribs,prs)
+![Bobstyle23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobstyle23&hide=contribs,prs)
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobstyle23&layout=compact&theme=dark)
