@@ -2,6 +2,7 @@
 
 ![Bobstyle23's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bobstyle23&hide=contribs,prs)
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Bobstyle23)](https://github.com/Bobstyle23/github-readme-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bobstyle23&layout=compact&theme=dark)
 
