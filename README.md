@@ -1,6 +1,7 @@
 # Hello World! 🫂
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bobstyle23)](https://git.io/streak-stats)
+![Bobstyle23's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Bobstyle23&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://activity-graph.vercel.app/graph?username=Bobstyle23&theme=github)
 <!---
